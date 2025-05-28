@@ -9,6 +9,6 @@
 - 🎮 Jugador avanzado en mazos de *Ciclo Rápido* y mazos que tengan *P.E.K.K.A*
 
   ***
-  ### Mazo actual y más utilizado🧩
+  ### Mazo actual y carta más utilizada🧩
 
-<img src='' width='200px'/>
+<img src='https://github.com/Carlitoski/carlitoskii/blob/main/IMG-20250528-WA0013.jpg' width='200px' height=' 200px'/> <img src='' width='200px' height=' 200px'/> 
