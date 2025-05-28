@@ -7,3 +7,8 @@
 - 📈 Máximo trofeos conseguidos: **8520🏆**
 - 🕹️ Miembro del clan **Redoblones**
 - 🎮 Jugador avanzado en mazos de *Ciclo Rápido* y mazos que tengan *P.E.K.K.A*
+
+  ***
+  ### Mazo actual y más utilizado🧩
+
+<img src='' width='200px'/>
