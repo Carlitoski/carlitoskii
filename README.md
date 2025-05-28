@@ -9,6 +9,12 @@
 - 🎮 Jugador avanzado en mazos de *Ciclo Rápido* y mazos que tengan *P.E.K.K.A*
 
   ***
-  ### Mazo actual y carta más utilizada🧩
+### 🧩 Mazo actual y carta más utilizada
 
 <img src='https://github.com/Carlitoski/carlitoskii/blob/main/IMG-20250528-WA0013.jpg' width='200px' height=' 200px'/> <img src='https://github.com/Carlitoski/carlitoskii/blob/main/Screenshot_20250528_172952_Clash%20Royale.jpg' width='200px' height=' 200px'/> 
+
+### 🔷 Analizador de Repetición
+
+![Analizador de Repetición](https://pixelcrux.com/Clash_Royale/Battles/Starfire-es?tag=)
+
+🧠 Es una herramienta útil para poder **analizar** tus partidas y detectar tus errores. 
