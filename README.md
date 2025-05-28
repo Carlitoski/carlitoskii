@@ -11,4 +11,4 @@
   ***
   ### Mazo actual y carta más utilizada🧩
 
-<img src='https://github.com/Carlitoski/carlitoskii/blob/main/IMG-20250528-WA0013.jpg' width='200px' height=' 200px'/> <img src='' width='200px' height=' 200px'/> 
+<img src='https://github.com/Carlitoski/carlitoskii/blob/main/IMG-20250528-WA0013.jpg' width='200px' height=' 200px'/> <img src='https://github.com/Carlitoski/carlitoskii/blob/main/Screenshot_20250528_172952_Clash%20Royale.jpg' width='200px' height=' 200px'/> 
