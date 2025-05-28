@@ -13,7 +13,9 @@
 
 <img src='https://github.com/Carlitoski/carlitoskii/blob/main/IMG-20250528-WA0013.jpg' width='200px' height=' 200px'/> <img src='https://github.com/Carlitoski/carlitoskii/blob/main/Screenshot_20250528_172952_Clash%20Royale.jpg' width='200px' height=' 200px'/> 
 
-### 🔷 Analizador de Repetición
+### 🔷 Analizador de Repetición 📹
+
+<img src='https://github.com/Carlitoski/carlitoskii/blob/main/Captura%20de%20pantalla%202025-05-28%20222348.png' width='1000px'/>
 
 ![Analizador de Repetición](https://pixelcrux.com/Clash_Royale/Battles/Starfire-es?tag=)
 
