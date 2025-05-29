@@ -41,6 +41,8 @@
 
 ***
 
+<img src='https://media.giphy.com/headers/clash/eT6s4qOTl5Cv.gif' width="1000" height='200'/>
+
 ## 📹 Mis momentos Favoritos
 
 | ⚡¡Mi partida más tensa!                                            
