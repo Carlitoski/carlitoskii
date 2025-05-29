@@ -24,7 +24,7 @@
 
 🧠 Herramienta útil para **mejorar tus partidas** 
 
-   Una herramienta que analiza los movimientos y errores que has causado durante las partidas
+   *🔎 Una herramienta que analiza los movimientos y errores que has causado durante las partidas 🔎*
 
 <img src='https://github.com/Carlitoski/carlitoskii/blob/main/Captura%20de%20pantalla%202025-05-28%20222348.png' width='1000px'/>
 <img src='https://github.com/Carlitoski/carlitoskii/blob/main/Captura%20de%20pantalla%202025-05-28%20222710.png' width='1000px'/>
@@ -66,4 +66,4 @@
 <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" width="300"/>
   
                         🏰🏹⚔️ NOS VEMOS EN LA ARENA PROPLAYERS, OS ESTARÉ ESPERANDO 🏰🏹⚔️
-                                 🧠👑Siempre aprendiendo, siempre subiendo copas👑🧠
+                                 🧠👑Siempre mejorando, siempre subiendo copas👑🧠
